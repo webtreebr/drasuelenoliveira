@@ -1,0 +1,452 @@
+body
+{
+	background: transparent url(/img/background.gif) no-repeat 0 0;
+	background-color: #e2ead8;
+	margin: 0px;
+	font-family: Century Gothic;
+	font-size: 14px;
+	color: #5f5f7d;
+}
+
+div.center
+{
+	position: relative;
+	width: 950px;
+	clear: both;
+	left: 50%;
+	margin-left: -475px;
+	background: transparent url(/img/header_background.jpg) repeat 0 0;
+	height: 100%;
+	float: left;
+	padding-bottom: 40px;
+}
+
+/*Header*/
+
+div.header
+{
+	margin-top: 5px;
+}
+
+div.header div.menu
+{
+	float: left;
+	margin-left: 82px;
+	color: #dc4667;
+	font-weight: bold;
+}
+
+div.header div.menu ul
+{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+div.header div.menu ul li
+{
+	float: left;
+	height: 20px;
+	text-align: center;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+
+div.header div.menu ul li a
+{
+	color: #dc4667;
+	text-decoration: none;
+}
+
+div.header div.menu ul li a:hover
+{
+	text-decoration: underline;
+}
+
+div.header div.main_logo
+{
+	float: left;
+	margin: 57px 0px 0px 65px;
+}
+
+div.header div.main_logo div.logo
+{
+	float: left;
+	clear: left;
+}
+
+div.header div.main_logo div.text
+{
+	font-size: 16px;
+	margin: 15px 0px 0px 17px;
+	color: #dc4667;
+	float: left;
+	clear: left;
+}
+
+div.header div.main_image
+{
+	float: left;
+	margin-left: 85px;
+	margin-top: 15px;
+}
+
+/*End Header*/
+
+/*Home*/
+
+div.home
+{
+	float: left;
+}
+
+div.home div.bar
+{
+	float: left;
+	background: transparent url(/img/header_bar.jpg) no-repeat 0 0;
+	width: 945px;
+	height: 180px;
+	margin-top: 30px;
+}
+
+div.home div.bar div.text
+{
+	float: left;
+	margin-left: 405px;
+	font-weight: bold;
+}
+
+div.home div.images
+{
+	float: left;
+	margin-left: 113px;
+}
+
+div.home div.images div.image
+{
+	float: left;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+div.home div.text
+{
+	float: left;
+	margin: 30px 0px 0px 114px;
+	width: 700px;
+}
+
+div.home div.text span.bold
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/*End Home*/
+
+/*Treatments*/
+
+div.treatments
+{
+	float: left;
+	margin: 20px 0px 0px 30px;
+}
+
+div.treatments div.bar
+{
+	float: left;
+	background: transparent url(/img/bar.jpg) no-repeat 0 0;
+	width: 945px;
+	height: 44px;
+	margin-left: -30px;
+}
+
+div.treatments div.bar div.title
+{
+	float: left;
+	font-size: 25px;
+	color: #dc4667;
+	font-weight: bold;
+	margin: 5px 0px 0px 80px;
+}
+
+div.treatments div.treatment
+{
+	float: left;
+	margin-top: 30px;
+}
+
+div.treatments div.treatment div.image
+{
+	float: left;
+}
+
+div.treatments div.treatment div.info
+{
+	float: left;
+	width: 700px;
+	margin: 10px 0px 0px 20px;
+}
+
+div.treatments div.treatment div.info div.subtitle
+{
+	font-size: 18px;
+}
+
+div.treatments div.treatment div.info div.text
+{
+	float: left;
+	text-align: justify;
+	margin-top: 10px;
+}
+
+/*End Treatments*/
+
+/*Beauty*/
+
+div.beauty
+{
+	float: left;
+	margin: 20px 0px 0px 30px;
+}
+
+div.beauty div.bar
+{
+	float: left;
+	background: transparent url(/img/bar.jpg) no-repeat 0 0;
+	width: 945px;
+	height: 44px;
+	margin-left: -30px;
+}
+
+div.beauty div.bar div.title
+{
+	float: left;
+	font-size: 25px;
+	color: #dc4667;
+	font-weight: bold;
+	margin: 5px 0px 0px 80px;
+}
+
+div.beauty div.treatment
+{
+	float: left;
+	margin-top: 30px;
+}
+
+div.beauty div.treatment div.image
+{
+	float: left;
+}
+
+div.beauty div.treatment div.info
+{
+	float: left;
+	width: 700px;
+	margin: 10px 0px 0px 20px;
+}
+
+div.beauty div.treatment div.info div.subtitle
+{
+	font-size: 18px;
+}
+
+div.beauty div.treatment div.info div.text
+{
+	float: left;
+	text-align: justify;
+	margin-top: 10px;
+}
+
+/*End Beauty*/
+
+/*Suelen*/
+
+div.suelen
+{
+	float: left;
+	margin: 20px 0px 0px 30px;
+}
+
+div.suelen div.bar
+{
+	float: left;
+	background: transparent url(/img/bar.jpg) no-repeat 0 0;
+	width: 945px;
+	height: 44px;
+	margin-left: -30px;
+}
+
+div.suelen div.bar div.title
+{
+	float: left;
+	font-size: 25px;
+	color: #dc4667;
+	font-weight: bold;
+	margin: 5px 0px 0px 80px;
+}
+
+div.suelen div.image
+{
+	float: left;
+	margin: 30px 30px 0px 0px;
+}
+
+div.suelen div.text
+{
+	margin-top: 55px;
+	float: left;
+	width: 615px;
+	text-align: justify;
+}
+
+div.suelen div.text span.bold
+{
+	font-weight: bold;
+}
+
+/*End Suelen*/
+
+/*Localização*/
+
+div.localization
+{
+	float: left;
+	margin: 20px 0px 0px 30px;
+}
+
+div.localization div.bar
+{
+	float: left;
+	background: transparent url(/img/bar.jpg) no-repeat 0 0;
+	width: 945px;
+	height: 44px;
+	margin-left: -30px;
+}
+
+div.localization div.bar div.title
+{
+	float: left;
+	font-size: 25px;
+	color: #dc4667;
+	font-weight: bold;
+	margin: 5px 0px 0px 80px;
+}
+
+div.localization div.place
+{
+	float: left;
+}
+
+div.localization div.place div.subtitle
+{
+	clear: left;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+div.localization div.place div.images
+{
+	float: left;
+	margin: 30px 0px 0px 3px;
+}
+
+div.localization div.place div.images div.image
+{
+	float: left;
+	margin-left: 30px;
+}
+
+div.localization div.place div.info
+{
+	float: left;
+	clear: left;
+	margin: 30px 0px 0px 46px;
+	width: 300px;
+}
+
+div.localization div.place div.info span.highlight
+{
+	font-weight: bold;
+}
+
+
+/*End Localização*/
+
+/*Construction*/
+
+div.construction
+{
+	float: left;
+}
+
+div.construction div.title
+{
+	margin-left: 261px;
+	font-size: 24px;
+	color: #cc4545;
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+div.construction div.logo
+{
+	float: left;
+}
+
+div.construction div.contact
+{
+	float: left;
+	margin-left: 153px;
+}
+
+/*End Construction*/
+
+/*Footer*/
+
+div.footer
+{
+	float: left;
+	margin: 30px 0px 10px 157px;
+	background-color: #ffffff;
+	width: 945px;
+	height: 50px;}
+
+div.footer div.instagram
+{
+	float: left;
+}
+
+div.footer div.instagram div.info
+{
+	float: left;
+	font-weight: bold;
+	color: #dc4667;
+	font-size: 18px;
+	margin: 14px 0px 0px 114px;
+}
+
+div.footer div.instagram div.logo
+{
+	float: left;
+	margin: 11px 0px 0px 25px;
+
+}
+
+div.footer div.instagram div.logo img
+{
+	border: 0px;}
+
+div.footer div.facebook
+{
+	float: left;
+	margin: 11px 0px 0px 30px;
+}
+
+div.footer div.facebook img
+{
+	border: 0px;
+}
+
+/*End Footer*/

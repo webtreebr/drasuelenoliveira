@@ -1,0 +1,23 @@
+{
+  "name": "SuelenOliveira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioseno/drasuelenoliveira"
+  },
+  "author": "Fabio Akira Yoshida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioseno/drasuelenoliveira/issues"
+  },
+  "homepage": "https://github.com/fabioseno/drasuelenoliveira",
+  "dependencies": {
+    "express": "^4.11.2",
+    "jade": "^1.9.2"
+  }
+}
